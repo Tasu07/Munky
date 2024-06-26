@@ -286,3 +286,14 @@ nav
     font-size: 1vw;
     cursor: pointer;
 }
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    background: #262626;
+    font-weight: 300;
+    font-size: 20px;
+    margin-top: 20px;
+ }
+ .copyright i{
+    color: #ffffff;}
